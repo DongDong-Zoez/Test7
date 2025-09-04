@@ -1,0 +1,8 @@
+{
+  "node_version": "v22.18.0",
+  "npm_version": "11.5.2",
+  "prefix": "/home/dongdong/.nvm/versions/node/v22.18.0",
+  "root": "/home/dongdong/.nvm/versions/node/v22.18.0/lib/node_modules",
+  "package": "@qwen-code/qwen-code@latest",
+  "created_at": "20250904-215541"
+}
